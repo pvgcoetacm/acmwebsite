@@ -1,0 +1,62 @@
+{
+    "teams": [
+        {
+            "id": 1,
+            "name": "Pawan Chate",
+            "role":"Chairperson",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372964/ACM/pawan_xhhgrf.png",
+            "linkedin": "https://www.linkedin.com/in/pawan-chate-b9233b20b/"
+        },
+        {
+            "id": 2,
+            "name": "Komal Pathare",
+            "role":"Vice-Chairperson",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372963/ACM/Komal_uconob.jpg",
+            "linkedin": "https://www.linkedin.com/in/komal-pathare-439462240/"
+        },
+        {
+            "id": 3,
+            "name": "Srushti Mahajan",
+            "role":"Secretary",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372963/ACM/Shrusti_sfdbuo.jpg",
+            "linkedin": "https://www.linkedin.com/in/srushti-mahajan-84504a229"
+        },
+        {
+            "id": 4,
+            "name": "Sagar Giradkar",
+            "role":"Tecnical Head",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707374531/ACM/PHOTO1_prev_ui_mszyym.png",
+            "linkedin": "https://www.linkedin.com/in/sagar-giradkar-b21581234/"
+        },
+        {
+            "id": 5,
+            "name": "Umesh Kapure",
+            "role":"Treasurer",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707375198/ACM/Umesh_dr3c2v.jpg",
+            "linkedin": "http://www.linkedin.com/in/unmesh-kapure-520472291"
+        },
+        {
+            "id": 6,
+            "name": "Harshavardhan Gaikwad",
+            "role":"Design Head",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707375398/ACM/HK_vrjnz4.png",
+            "linkedin": "https://www.linkedin.com/in/harshavardhan-gaikwad-a5549b234/"
+        },
+        {
+            "id": 7,
+            "name": "Rahul Gone",
+            "role":"Public Relation Officer",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707375823/ACM/Rahul_hw0uvc.jpg",
+            "linkedin": "https://www.linkedin.com/in/rahul-gone-400867253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        },
+        {
+            "id": 8,
+            "name": "Anuja Nanaware",
+            "role":"Social Media Head",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707376011/ACM/Anuja_iow14q.jpg",
+            "linkedin": "https://www.linkedin.com/in/anuja-nanaware-a97a59244/"
+        }
+        
+        
+    ]
+}

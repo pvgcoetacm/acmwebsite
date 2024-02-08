@@ -1,0 +1,510 @@
+:root{
+ /* --main-color:rgba(242, 116, 86, 1); */
+ /* --main-color:#1588fd; */
+ /* --main-color:#04045b; */
+--main-color:#235899 
+}
+html{
+  scroll-behavior: smooth;
+}
+.home{
+  width: 100vw;
+  overflow-x: hidden;
+    margin-top: 4.5rem;
+    
+}
+.mp-up-btn{
+  margin-top: 1.2rem;
+}
+.cards-list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card{
+  background-color: var(--main-color);
+  margin: 1.4rem;
+  width: 290px;
+  width: 280px;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+box-shadow: 16px 22px 46px 1px rgba(21, 22, 22, 0.15);
+border-radius: 10px;
+cursor: pointer;
+position: relative;
+transition: all 0.3s ease-in-out;
+
+}
+.card:hover{
+  transform: translateY(-12px);
+}
+.card-img{
+ 
+  background-color: #F3F2E7;
+  width: 100%;
+  height: 14rem;
+  margin-bottom: 1.2rem;
+}
+.card-team-image{
+  width: 100%; /* Ensure the image fills the container */
+  height: 100%; /* Ensure the image fills the container */
+  object-fit: cover;
+}
+.card-desc{
+  color: rgb(21, 22, 22, 51%);
+  color: rgb(228, 223, 223);
+  height: 4rem;
+  overflow:hidden; 
+  margin: 0;
+  
+}
+.card-desc .team-info {
+  display: grid;
+  grid-template-columns: auto; 
+  justify-content: start; 
+  align-items: center; 
+}
+
+.card-desc h2,
+.card-desc p {
+  margin: 0; 
+}
+
+.word-wrap{
+  background-color: #231E1F;
+  word-wrap: break-word;
+}
+
+.title{
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 41px;
+  font-weight: 400;
+  text-decoration: underline;
+  text-decoration-color: #40A2D5;
+  
+}
+.mega-cont-home-2{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 4%;
+  flex-wrap: wrap;
+}
+.overlay-left-acm-home{
+  position: absolute;
+  top: 111px;
+  left: 20px;
+  z-index: 1;
+}
+.overlay-left-acm-home img{
+  width: 4rem;
+}
+.slider{
+    /* Rectangle 138 */
+
+box-sizing: border-box;
+
+/* Color/P/10 */
+height: 403px;
+width: 651px;
+border: 2px solid #F1F3FF;
+border-radius: 1e+06px 0px 220px 1e+06px;
+overflow: hidden;
+position: relative;
+z-index: 1;
+/* background-color: red; */
+
+}
+.slider-overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+  background-color: rgba(242, 116, 86, 0.3);
+  background-color: #9bd9fe;
+  opacity: 0.5;
+  pointer-events: none;
+}
+.sizebox{
+  height: 100vh;
+}
+.title-home-banner{
+  /* Find your Dream Home */
+
+
+
+/* font-family: 'Inter'; */
+font-weight:bolder;
+font-size: 48px;
+    line-height: 51px;
+letter-spacing: 0.04em;
+
+margin: 0;
+
+
+
+color: #231E1F;
+
+
+}
+.text-cont-home{
+  width: 18rem;
+  margin-right: 4.5rem;
+}
+.text{
+  font-size: 14px;
+  color: #393637;
+}
+.two-btns-home{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1.8rem;
+}
+.blue-btn{
+ 
+padding: 0.7rem 1.2rem;
+
+background: var(--main-color);
+border-radius: 0px 30px;
+color: white;
+
+}
+.light-btn{
+  /* Rectangle 8 */
+
+box-sizing: border-box;
+padding: 0.7rem 1.2rem;
+background: #FFFFFF;
+border: 1px solid var(--main-color);
+border-radius: 0px 30px;
+color: var(--main-color);
+
+}
+.teams{
+  background-color: var(--main-color);
+}
+.team-button {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.red-back{
+  background-color: white;
+  color: var(--main-color);
+}
+
+.red-back .card-desc{
+  color: var(--main-color);
+}
+.mega-grid-2-abt{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 5rem;
+  z-index: 0;
+  margin-bottom: 5rem;
+}
+.overlay-upper-left{
+  position: absolute;
+  left: 13%;
+    top: -21%;
+  z-index: 1;
+}
+.overlay-imgs img{
+  width: 10rem;
+}
+
+.overlay-down-right{
+  position: absolute;
+  right: 14%;
+  bottom: -16%;
+  z-index: 1;
+}
+.overlay-down-right img{
+  width: 8.5rem;
+}
+.col-1 img{
+  width: 20rem;
+}
+.middle-line{
+  width: 0.3rem;
+  height: 20rem;
+  background-color: #231E1F;
+  margin: 1rem 4rem;
+}
+.col-2{
+  display: flex;
+  flex-direction: column;
+  width: 20rem;
+}
+.card-img img{
+  object-fit:cover;
+}
+.slider img{
+  width: 100%;
+  height: 25rem;
+  object-fit: cover;
+}
+footer{
+  background-color: var(--main-color);
+  color: white;
+  padding: 1rem 3rem;
+}
+footer a{
+  text-decoration: underline;
+  letter-spacing: 1px;
+  color: white;
+}
+.footer-items{
+  margin: 2rem;
+}
+.mg-btm-1{
+  margin-bottom: 1rem;
+}
+
+.more-info-cont{
+  margin: 2% 6%;
+  justify-content: space-between;
+}
+.slider-moreinfo{
+ border-radius: 200px 0px 200px 0px;
+ margin-right: 4rem;
+ justify-content: unset;
+ width: 523px;
+}
+
+.col-moreinfo{
+  width: 32rem;
+}
+.mp-up-moreinfo{
+ 
+  margin-top: 9rem;
+}
+.text-moreinfo{
+  width: 31rem;
+  margin-right: unset;
+}
+.more-info-justify-unset{
+  justify-content: unset;
+  margin-left: 6%;
+}
+.mini-grid-2{
+  display: flex;
+  align-items: center;
+  margin: 2% 8%;
+}
+.whyjoin-num{
+  width: 4rem;
+}
+.blue-btn a{
+  color: white;
+  text-decoration: none;
+}
+
+
+
+.reveal{
+  position: relative;
+  transform: translateY(90px);
+  opacity: 0;
+  transition: all 1.5s ease;
+}
+.reveal.active{
+  transform: translateY(0px);
+  opacity: 1;
+}
+.reveal-from-right{
+  position: relative;
+  transform: translateX(130px);
+  opacity: 0;
+  transition: all 1.7s ease;
+}
+.reveal-from-right.active-right{
+  transform: translateY(0px);
+  opacity: 1;
+}
+.reveal-from-left{
+  position: relative;
+  transform: translateX(-130px);
+  opacity: 0;
+  transition: all 1.7s ease;
+}
+.reveal-from-left.active-left{
+  transform: translateX(0px);
+  opacity: 1;
+}
+
+@media(max-width:1024px){
+  .slider{
+    width: 502px;
+  }
+  .overlay-upper-left{
+    position: absolute;
+    left: 6%;
+    top: -18%;
+    z-index: 1;
+  }
+  .overlay-imgs img{
+    width: 10rem;
+  }
+  
+  .overlay-down-right{
+    position: absolute;
+    right: 8%;
+    bottom: -12%;
+    z-index: 1;
+  }
+  .overlay-down-right img{
+    width: 8.5rem;
+  }
+  .slider-moreinfo{
+    width: 362px;
+    border-radius: 160px 0px 130px 0px;
+  }
+}
+
+
+
+@media(max-width:450px){
+  .mega-cont-home-2{
+    margin: 0 3%;
+  }
+  .text-cont-home{
+    margin-right: unset;
+  }
+  .slider-cont-home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .slider{
+    width: 90vw;
+    margin-top: 1.5rem;
+  }
+  .middle-line{
+    display: none;
+  }
+  .card{
+    width: 260px;
+  }
+  .home{
+    margin-top: 3.5rem;
+  }
+  .overlay-left-acm-home img{
+    width: 2rem;
+  }
+  .overlay-upper-left {
+    left: 2%;
+    top: -9%;
+    z-index: 1;
+}
+.overlay-upper-left img{
+  width: 7rem;
+  transform: rotate(363deg);
+}
+.overlay-down-right {
+ 
+  right: 3%;
+  bottom: -7%;
+  z-index: 1;
+}
+.overlay-down-right img{
+  width: 6.5rem;
+}.col-2{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.slider-moreinfo{
+  border-radius: 155px 0px 120px 0px;
+  margin-right: unset;
+}.text-moreinfo{
+  
+  margin: 0 4%;
+}
+.text-moreinfo .title{
+  text-align: unset;
+  font-size: 28px;
+}
+.footer {
+  background-color: #f9f9f9;
+  padding: 40px 0;
+}
+
+.mega-grid-2-abt {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.footer-items {
+  padding: 0 20px; /* Adjust as needed */
+}
+
+.socials-cont {
+  display: flex;
+  flex-direction: column;
+}
+
+.social-icons-row {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.social-link {
+  margin-right: 10px;
+}
+
+.legal-cont,
+.address-cont {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-link {
+  margin-bottom: 10px;
+}
+
+.address {
+  font-style: italic;
+}
+
+footer{
+  margin-top: 4rem;
+}
+footer .mega-grid-2-abt{
+ margin-top: unset;
+ margin-bottom: unset;
+}
+}
+.socials-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.social-icons-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.social-icons-row a {
+  margin-right: 15px; /* Add gap between icons */
+}
