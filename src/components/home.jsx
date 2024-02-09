@@ -42,10 +42,10 @@ const  Home =()=>{
 
         <div className="text-cont-home">
             <p className="title-home-banner">
-            PVGCOET <br/> ACM Student <br /> Chapter
+            PVGCOET <br/> <span className='acm-blue-title'>ACM </span> Student <br /> Chapter
             </p>
             <p className="text">
-            lorem ipsum lorem ipsum  lorem ipsum  lorem ipsum lorem ipsum lorem ipsum
+            Welcome to the ACM Student Chapter website, your gateway to a world of innovation, collaboration, and endless opportunities.
             </p>
             <div className="two-btns-home">
                 <div className="blue-btn">

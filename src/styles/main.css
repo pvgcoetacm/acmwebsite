@@ -1,5 +1,5 @@
 :root{
- /* --main-color:rgba(242, 116, 86, 1); */
+ --main-color2:rgba(242, 116, 86, 1);
  /* --main-color:#1588fd; */
  /* --main-color:#04045b; */
 --main-color:#235899 
@@ -14,8 +14,9 @@ html{
     
 }
 .mp-up-btn{
-  margin-top: 1.2rem;
+  margin-top: 2rem;
 }
+
 .cards-list{
   display: flex;
   align-items: center;
@@ -51,8 +52,8 @@ transition: all 0.3s ease-in-out;
 }
 .card-team-image{
   width: 100%; /* Ensure the image fills the container */
-  height: 100%; /* Ensure the image fills the container */
-  object-fit: cover;
+  height: 18rem; /* Ensure the image fills the container */
+  object-fit: unset;
 }
 .card-desc{
   color: rgb(21, 22, 22, 51%);
@@ -303,6 +304,7 @@ footer a{
 .more-info-justify-unset{
   justify-content: unset;
   margin-left: 6%;
+  align-items: unset;
 }
 .mini-grid-2{
   display: flex;
@@ -447,11 +449,11 @@ footer a{
   padding: 40px 0;
 }
 
-.mega-grid-2-abt {
+/* .mega-grid-2-abt {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
-}
+} */
 
 .footer-items {
   padding: 0 20px; /* Adjust as needed */
@@ -492,7 +494,16 @@ footer .mega-grid-2-abt{
  margin-top: unset;
  margin-bottom: unset;
 }
+.moreinfo-title{
+  font-size: 28px;
 }
+.event-more-info-uni-up-margin{
+  margin-top: 2rem;
+}
+}
+
+
+
 .socials-cont {
   display: flex;
   flex-direction: column;
@@ -507,4 +518,59 @@ footer .mega-grid-2-abt{
 
 .social-icons-row a {
   margin-right: 15px; /* Add gap between icons */
+}
+.tech-team-cont{
+  text-align: center;
+}
+.tech-team-link{
+  color: var(--main-color2);
+  transition: all 0.3s ease;
+}
+.tech-team-link:hover{
+  transform: translateY(150px);
+}
+.desc-flex{
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  height: fit-content;
+  width: 100%;
+}
+.tech-team-white{
+  background-color: white;
+}
+.yearSelecter-cont{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+.yearSelecter{
+  padding: 0.8rem 0.6rem;
+  background-color: var(--main-color);
+  color: white;
+  font-size: 19px;
+  margin: auto;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+}
+.yearSelecter:hover{
+  cursor: pointer;
+}
+.acm-blue-title{
+  color: var(--main-color);
+}
+.tech-team-card{
+  box-shadow: 0px 0px 40px rgba(126, 227, 227, 0.7);
+}
+.flex-center-moreinfo{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.flex-center-moreinfo img{
+  margin-right: 1rem;
+}
+.moreinfo-title{
+  text-align: left;
 }

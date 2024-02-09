@@ -10,6 +10,8 @@ import Footer from './components/footer'
 import MoreInfo from './components/eventmoreinfo';
 import Teams from './components/teams';
 import About from './components/about';
+import  Techteam  from './components/techteam';
+
 const ScrollToTop = () => {
   const location = useLocation();
 
@@ -34,6 +36,7 @@ function App() {
           <Route path='/about' element={<About/>}></Route>
           <Route path='/team' element={<Teams/>}></Route>
           <Route path='/moreInfo/:id' element={<MoreInfo />}></Route>
+          <Route path='/techTeam' element={<Techteam/>}></Route>
         </Routes>
         <ScrollToTop/>
         <Footer />

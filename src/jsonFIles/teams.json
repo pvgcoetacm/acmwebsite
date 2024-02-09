@@ -1,5 +1,5 @@
 {
-    "teams": [
+    "teamYear24": [
         {
             "id": 1,
             "name": "Pawan Chate",
@@ -58,5 +58,64 @@
         }
         
         
+    ],
+    "teamYear23":[
+        {
+            "id":1,
+            "name":"Harsh Ekbote",
+            "role":"Chairperson",
+            "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406234/acmAssets/harsh-profile-img_srxcrm.jpg",
+            "linkedin":"https://www.linkedin.com/in/harsh-ekbote-90528b212/"
+        },
+        {
+            "id":2,
+            "name":"Sahil Kulkarni",
+            "role":"Vice-Chairperson",
+            "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406401/acmAssets/sahil-profile-img_rq54db.jpg",
+            "linkedin":""
+        },
+        {
+            "id":3,
+            "name":"Siddesh Kukade",
+            "role":"Technical Lead",
+            "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406556/acmAssets/sid-profile-img_s1tgly.jpg",
+            "linkedin":"https://www.linkedin.com/in/siddhu-kukade/"
+        },
+        {
+            "id":4,
+            "name":"Vaishnavi Jagdale",
+            "role":"Secretary",
+            "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406796/acmAssets/vaishnavi-prof-img_i3myre.jpg",
+            "linkedin":"https://www.linkedin.com/in/vaishnavi-jagdale-258620209/"
+        },
+        {
+            "id": 5,
+            "name": "Chetan Wanave",
+            "role":"Design Head",
+            "photo": "https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406926/acmAssets/chetan-prof0img_unn62m.jpg",
+            "linkedin": "https://www.linkedin.com/in/chetan-wanave-4280161b1/"
+        },
+        {
+            "id": 6,
+            "name": "Tejas Khamkar",
+            "role":"Treasurer",
+            "photo": "https://res.cloudinary.com/dn07sxmaf/image/upload/v1707413324/acmAssets/DSC_1410_yovhti.jpg",
+            "linkedin": "https://www.linkedin.com/in/tejas-khamkar-a11a70234/"
+        },
+        {
+            "id": 7,
+            "name": "Komal Pathare",
+            "role":"Social Media Head",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372963/ACM/Komal_uconob.jpg",
+            "linkedin": "https://www.linkedin.com/in/komal-pathare-439462240/"
+        },
+        {
+            "id": 8,
+            "name": "Pawan Chate",
+            "role":"Public Relation Officer",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372964/ACM/pawan_xhhgrf.png",
+            "linkedin": "https://www.linkedin.com/in/pawan-chate-b9233b20b/"
+        }
+
     ]
 }
