@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/acmwebsite/static/css/main.50ca8e51.css",
+    "main.js": "/acmwebsite/static/js/main.63dd8851.js",
+    "static/js/787.efc07b1d.chunk.js": "/acmwebsite/static/js/787.efc07b1d.chunk.js",
+    "static/media/aboutimg.png": "/acmwebsite/static/media/aboutimg.e5feae028febf4a8c839.png",
+    "static/media/logo.png": "/acmwebsite/static/media/logo.09eb6a9210e4e12a1e72.png",
+    "static/media/logo.svg": "/acmwebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/acmwebsite/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/acmwebsite/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/acmwebsite/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/acmwebsite/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/acmwebsite/index.html",
+    "main.50ca8e51.css.map": "/acmwebsite/static/css/main.50ca8e51.css.map",
+    "main.63dd8851.js.map": "/acmwebsite/static/js/main.63dd8851.js.map",
+    "787.efc07b1d.chunk.js.map": "/acmwebsite/static/js/787.efc07b1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ca8e51.css",
+    "static/js/main.63dd8851.js"
+  ]
+}
