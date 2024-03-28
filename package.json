@@ -1,6 +1,6 @@
 {
   "homepage": "https://pvgcoetacm.github.io/acmwebsite",
-  "name": "acm_amar",
+  "name": "acmwebsite",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "list-react-files": "^0.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
     "react-router-dom": "^6.21.2",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.1",
@@ -50,5 +51,8 @@
   "browser": {
     "fs": false,
     "child_process": false
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
   }
 }

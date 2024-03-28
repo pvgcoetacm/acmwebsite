@@ -38,7 +38,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="tech-team-cont">
-                Website Created by <Link className="tech-team-link" to='/techTeam'>Tech Team 2023-24</Link>
+                Website Created ❤️ by <Link className="tech-team-link" to='/techTeam'>Tech Team 2023-24</Link>
             </div>
         </footer>
     );
