@@ -223,8 +223,12 @@ color: var(--main-color);
 .mega-grid-2-abt{
   position: relative;
   display: flex;
+  align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 5rem;
   z-index: 0;
+  margin-bottom: 5rem;
 }
 .overlay-upper-left{
   position: absolute;
@@ -531,11 +535,36 @@ footer .mega-grid-2-abt{
   background: rgb(33, 33, 33);
   text-align: center;
   color: white;
-  height: 4rem;
-  display: flex; /* Use flexbox */
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
+  margin-bottom: 1%; 
 }
+
+.tech-team-cont .content {
+  padding: 1rem; /* Add padding for better spacing */
+}
+
+.tech-team-cont .content,
+.tech-team-cont .copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tech-team-cont .copyright {
+  background: rgb(33, 33, 33); /* Set the background color for the entire row */
+  margin-top: 0.5rem; /* Add margin for separation */
+}
+
+@media screen and (max-width: 768px) {
+  .tech-team-cont .content {
+    flex-direction: column; /* Stack content vertically on small screens */
+    align-items: center; /* Center items vertically */
+  }
+
+  .tech-team-cont .content .tech-team-link {
+    margin-top: 0.5rem; /* Add space between link and text on small screens */
+  }
+}
+
 
 .tech-team-link {
   color: var(--main-color2);
