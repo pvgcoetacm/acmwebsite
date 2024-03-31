@@ -33,10 +33,12 @@ const MoreInfo = () => {
 
           <div className="overlay-curly-design-home"></div>
         </div>
-        <div className="more-info-cont mg-up-moreinfo">
+        
+        <div className="more-info-cont mg-up-moreinfo" style={{ whiteSpace: 'pre-line' }}>
           <h1 className="title moreinfo-title">Event Description</h1>
           {event.description}
         </div>
+
 
       </div>
     </>

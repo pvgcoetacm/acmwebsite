@@ -3,6 +3,7 @@ import { Link, Link as ScrollLink } from 'react-router-dom';
 import About from './about';
 import Event from './events'
 import Teams from './teams';
+import GlimpsAcm from './glimpsofacm';
 import '../scripts/animate'
 import EventCarousel from './EventCarousel';
 
@@ -79,6 +80,9 @@ const  Home =()=>{
 
     <div id='about'>
         <About/>
+    </div>
+    <div id='glimpses'>
+        <GlimpsAcm/>
     </div>
 
     <div id='whyjoin'>

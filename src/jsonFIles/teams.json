@@ -2,55 +2,69 @@
     "teamYear24": [
         {
             "id": 1,
-            "name": "Pawan Chate",
-            "role":"Chairperson",
-            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372964/ACM/pawan_xhhgrf.png",
-            "linkedin": "https://www.linkedin.com/in/pawan-chate-b9233b20b/"
+            "name": "Dr.S.A.Mahajan",
+            "role":"Head of Department",
+            "photo": "https://res.cloudinary.com/degn6onbj/image/upload/v1711643481/c4fer6a3szghspscue1z.jpg",
+            "linkedin": "https://www.linkedin.com/in/surendra-mahajan-80b78219/"
         },
         {
             "id": 2,
-            "name": "Komal Pathare",
-            "role":"Vice-Chairperson",
-            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372963/ACM/Komal_uconob.jpg",
-            "linkedin": "https://www.linkedin.com/in/komal-pathare-439462240/"
+            "name": "Prof. S. G. Kamble",
+            "role":"Teacher Guardian",
+            "photo": "https://res.cloudinary.com/degn6onbj/image/upload/v1711643302/bu8o8qjzxjwb56jqveht.jpg",
+            "linkedin": "https://www.linkedin.com/in/satish-kamble-b75a8652/"
         },
         {
             "id": 3,
-            "name": "Srushti Mahajan",
-            "role":"Secretary",
-            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372963/ACM/Shrusti_sfdbuo.jpg",
-            "linkedin": "https://www.linkedin.com/in/srushti-mahajan-84504a229"
+            "name": "Pawan Chate",
+            "role":"Chairperson",
+            "photo": "https://res.cloudinary.com/degn6onbj/image/upload/v1711878959/Acm%20Event%20Assets/TeamAssets/dd9dq2hw4v45p4u2892l.jpg",
+            "linkedin": "https://www.linkedin.com/in/pawan-chate-b9233b20b/"
         },
         {
             "id": 4,
+            "name": "Komal Pathare",
+            "role":"Vice-Chairperson",
+            "photo": "https://res.cloudinary.com/degn6onbj/image/upload/v1711879142/Acm%20Event%20Assets/TeamAssets/ewv1ido1tgwdirkfbpbd.jpg",
+            "linkedin": "https://www.linkedin.com/in/komal-pathare-439462240/"
+        },
+        {
+            "id": 5,
+            "name": "Srushti Mahajan",
+            "role":"Secretary",
+            "photo": "https://res.cloudinary.com/degn6onbj/image/upload/v1711878960/Acm%20Event%20Assets/TeamAssets/imxi0mcuns0a9pcduc6p.jpg",
+            "linkedin": "https://www.linkedin.com/in/srushti-mahajan-84504a229"
+        },
+        {
+            "id": 6,
             "name": "Sagar Giradkar",
-            "role":"Tecnical Head",
+            "role":"Technical Head",
             "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707374531/ACM/PHOTO1_prev_ui_mszyym.png",
             "linkedin": "https://www.linkedin.com/in/sagar-giradkar-b21581234/"
         },
         {
-            "id": 5,
-            "name": "Umesh Kapure",
+            "id": 7,
+            "name": "Unmesh Kapure",
             "role":"Treasurer",
             "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707375198/ACM/Umesh_dr3c2v.jpg",
             "linkedin": "http://www.linkedin.com/in/unmesh-kapure-520472291"
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "Harshavardhan Gaikwad",
             "role":"Design Head",
             "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707375398/ACM/HK_vrjnz4.png",
             "linkedin": "https://www.linkedin.com/in/harshavardhan-gaikwad-a5549b234/"
         },
         {
-            "id": 7,
+            "id": 9,
             "name": "Rahul Gone",
             "role":"Public Relation Officer",
             "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707375823/ACM/Rahul_hw0uvc.jpg",
             "linkedin": "https://www.linkedin.com/in/rahul-gone-400867253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
         {
-            "id": 8,
+            "id": 10,
             "name": "Anuja Nanaware",
             "role":"Social Media Head",
             "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707376011/ACM/Anuja_iow14q.jpg",
@@ -61,59 +75,73 @@
     ],
     "teamYear23":[
         {
-            "id":1,
+            "id": 1,
+            "name": "Dr.S.A.Mahajan",
+            "role":"Head of Department",
+            "photo": "https://res.cloudinary.com/degn6onbj/image/upload/v1711643481/c4fer6a3szghspscue1z.jpg",
+            "linkedin": "https://www.linkedin.com/in/surendra-mahajan-80b78219/"
+        },
+        {
+            "id": 2,
+            "name": "Prof. S. G. Kamble",
+            "role":"Teacher Guardian",
+            "photo": "https://res.cloudinary.com/degn6onbj/image/upload/v1711643302/bu8o8qjzxjwb56jqveht.jpg",
+            "linkedin": "https://www.linkedin.com/in/satish-kamble-b75a8652/"
+        },
+        {
+            "id":3,
             "name":"Harsh Ekbote",
             "role":"Chairperson",
             "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406234/acmAssets/harsh-profile-img_srxcrm.jpg",
             "linkedin":"https://www.linkedin.com/in/harsh-ekbote-90528b212/"
         },
         {
-            "id":2,
+            "id":4,
             "name":"Sahil Kulkarni",
             "role":"Vice-Chairperson",
             "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406401/acmAssets/sahil-profile-img_rq54db.jpg",
-            "linkedin":""
+            "linkedin":"https://www.linkedin.com"
         },
         {
-            "id":3,
+            "id":5,
             "name":"Siddesh Kukade",
             "role":"Technical Lead",
             "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406556/acmAssets/sid-profile-img_s1tgly.jpg",
             "linkedin":"https://www.linkedin.com/in/siddhu-kukade/"
         },
         {
-            "id":4,
+            "id":6,
             "name":"Vaishnavi Jagdale",
             "role":"Secretary",
             "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406796/acmAssets/vaishnavi-prof-img_i3myre.jpg",
             "linkedin":"https://www.linkedin.com/in/vaishnavi-jagdale-258620209/"
         },
         {
-            "id": 5,
+            "id": 7,
             "name": "Chetan Wanave",
             "role":"Design Head",
             "photo": "https://res.cloudinary.com/dn07sxmaf/image/upload/v1707406926/acmAssets/chetan-prof0img_unn62m.jpg",
             "linkedin": "https://www.linkedin.com/in/chetan-wanave-4280161b1/"
         },
         {
-            "id": 6,
+            "id": 8,
             "name": "Tejas Khamkar",
             "role":"Treasurer",
             "photo": "https://res.cloudinary.com/dn07sxmaf/image/upload/v1707413324/acmAssets/DSC_1410_yovhti.jpg",
             "linkedin": "https://www.linkedin.com/in/tejas-khamkar-a11a70234/"
         },
         {
-            "id": 7,
+            "id": 9,
             "name": "Komal Pathare",
             "role":"Social Media Head",
-            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372963/ACM/Komal_uconob.jpg",
+            "photo": "https://res.cloudinary.com/degn6onbj/image/upload/v1711879142/Acm%20Event%20Assets/TeamAssets/ewv1ido1tgwdirkfbpbd.jpg",
             "linkedin": "https://www.linkedin.com/in/komal-pathare-439462240/"
         },
         {
-            "id": 8,
+            "id": 10,
             "name": "Pawan Chate",
             "role":"Public Relation Officer",
-            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707372964/ACM/pawan_xhhgrf.png",
+            "photo": "https://res.cloudinary.com/degn6onbj/image/upload/v1711878959/Acm%20Event%20Assets/TeamAssets/dd9dq2hw4v45p4u2892l.jpg",
             "linkedin": "https://www.linkedin.com/in/pawan-chate-b9233b20b/"
         }
 

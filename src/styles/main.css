@@ -6,6 +6,7 @@
 }
 html{
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 .home{
   width: 100vw;
@@ -56,6 +57,7 @@ transition: all 0.3s ease-in-out;
   object-fit: unset;
 }
 .card-desc{
+  white-space: pre-line;
   color: rgb(21, 22, 22, 51%);
   color: rgb(228, 223, 223);
   height: 4rem;
@@ -87,6 +89,13 @@ transition: all 0.3s ease-in-out;
   font-weight: 400;
   text-decoration: underline;
   text-decoration-color: #40A2D5;
+  
+}
+.glimps-title{
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 41px;
+  font-weight: 400;
   
 }
 .mega-cont-home-2{
@@ -214,12 +223,8 @@ color: var(--main-color);
 .mega-grid-2-abt{
   position: relative;
   display: flex;
-  align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
-  margin-top: 5rem;
   z-index: 0;
-  margin-bottom: 5rem;
 }
 .overlay-upper-left{
   position: absolute;
@@ -262,11 +267,13 @@ color: var(--main-color);
   height: 25rem;
   object-fit: cover;
 }
-footer{
-  background-color: var(--main-color);
+footer {
+  background-color: rgb(38, 50, 56);
   color: white;
   padding: 1rem 3rem;
+  overflow-x: hidden; /* Disable horizontal scrolling for the footer */
 }
+
 footer a{
   text-decoration: underline;
   letter-spacing: 1px;
@@ -506,7 +513,7 @@ footer .mega-grid-2-abt{
 
 .socials-cont {
   display: flex;
-  flex-direction: column;
+ 
   align-items: center;
 }
 
@@ -514,21 +521,31 @@ footer .mega-grid-2-abt{
   display: flex;
   flex-direction: row;
   align-items: center;
+
 }
 
 .social-icons-row a {
   margin-right: 15px; /* Add gap between icons */
 }
-.tech-team-cont{
+.tech-team-cont {
+  background: rgb(33, 33, 33);
   text-align: center;
+  color: white;
+  height: 4rem;
+  display: flex; /* Use flexbox */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
 }
-.tech-team-link{
+
+.tech-team-link {
   color: var(--main-color2);
-  transition: all 0.3s ease;
 }
-.tech-team-link:hover{
-  transform: translateY(150px);
+
+.tech-team-link:hover {
+  transform: translateY(1px);
+  cursor: pointer; 
 }
+
 .desc-flex{
   display: flex;
   align-items: center;
@@ -573,4 +590,19 @@ footer .mega-grid-2-abt{
 }
 .moreinfo-title{
   text-align: left;
+}
+
+/* main.css */
+.image-container {
+  width: 50%; /* Two images per row */
+  padding: 10px; /* Add spacing between images */
+  box-sizing: border-box; /* Include padding in width calculation */
+}
+
+.center-image {
+  width: 100%; /* Make images fill the container */
+  max-width: 500px; /* Set maximum width to 500px */
+  height: auto; /* Maintain aspect ratio */
+  border: 2px solid #ddd; /* Add border to images */
+  box-sizing: border-box; /* Include border in width calculation */
 }
