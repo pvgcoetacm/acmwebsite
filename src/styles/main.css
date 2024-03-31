@@ -535,18 +535,15 @@ footer .mega-grid-2-abt{
   background: rgb(33, 33, 33);
   text-align: center;
   color: white;
-  margin-bottom: 1%; 
 }
 
 .tech-team-cont .content {
-  padding: 1rem; /* Add padding for better spacing */
+  padding: 0.5rem; /* Add padding for better spacing */
 }
 
-.tech-team-cont .content,
+
 .tech-team-cont .copyright {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  padding: 0.5rem;
 }
 
 .tech-team-cont .copyright {
