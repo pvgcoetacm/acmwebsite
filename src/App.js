@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 
 import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom';
-import { useState, useEffect } from 'react';
+import { useEffect } from 'react';
 import Navbar from './components/navbar';
 import Event from './components/events';
 import Home from './components/home';
@@ -11,6 +10,7 @@ import MoreInfo from './components/eventmoreinfo';
 import Teams from './components/teams';
 import About from './components/about';
 import  Techteam  from './components/techteam';
+import GlimpsAcm from './components/glimpsofacm';
 
 const ScrollToTop = () => {
   const location = useLocation();
@@ -34,6 +34,7 @@ function App() {
           <Route path='/' element={<Home />}></Route>
           <Route path='/event' element={<Event />}></Route>
           <Route path='/about' element={<About/>}></Route>
+          <Route path='/glimpses' element={<GlimpsAcm/>}></Route>
           <Route path='/team' element={<Teams/>}></Route>
           <Route path='/moreInfo/:id' element={<MoreInfo />}></Route>
           <Route path='/techTeam' element={<Techteam/>}></Route>

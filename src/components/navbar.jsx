@@ -65,6 +65,9 @@ const Navbar = () => {
             <li className="nav_item">
             <NavHashLink to='/#about'>About Us</NavHashLink>
             </li>
+            <li className="nav_item">
+            <NavHashLink to='/#glimpses'>Glimpsess</NavHashLink>
+            </li>
           </ul>
         </div>
       </nav>

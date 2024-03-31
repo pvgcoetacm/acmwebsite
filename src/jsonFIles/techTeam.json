@@ -2,25 +2,26 @@
     "techTeam":[
         {
             "id":"1",
+            "name": "Sagar Giradkar",
+            "role":"Technical Team Head",
+            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707374531/ACM/PHOTO1_prev_ui_mszyym.png",
+            "linkedin": "https://www.linkedin.com/in/sagar-giradkar-b21581234/"
+        },
+        {
+            "id":"2",
             "name":"Amar Gaikwad",
             "role":"Tech Team",
             "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707407905/acmAssets/amar-prof-img_pvxwck.jpg",
             "linkedin":"https://www.linkedin.com/in/amar-gaikwad-913126230/"
         },
         {
-            "id":"2",
+            "id":"3",
             "name":"Dheeraj Jadhav",
             "role":"Tech Team",
             "photo":"https://res.cloudinary.com/dn07sxmaf/image/upload/v1707408111/acmAssets/dheeraj.2f3440e6225e6e8d4275_pq30ad.png",
             "linkedin":"https://www.linkedin.com/in/dheeraj-jadhav-979a541a5/"
         },
-        {
-            "id":"3",
-            "name": "Sagar Giradkar",
-            "role":"Tech Team",
-            "photo": "https://res.cloudinary.com/disl8qg3k/image/upload/v1707374531/ACM/PHOTO1_prev_ui_mszyym.png",
-            "linkedin": "https://www.linkedin.com/in/sagar-giradkar-b21581234/"
-        },
+        
         {
             "id":"4",
             "name":"Vivek Pawar",
