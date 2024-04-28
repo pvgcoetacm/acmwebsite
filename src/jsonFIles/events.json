@@ -1,24 +1,95 @@
 {
     "events": [
         {
-            "id": "1",
-            "title": "ACM Inauguration and TechTalk Session on 'Recent Trends in IT' ",
-            "date": "13/02/2023",
-            "time": "11.00 am to 1.00 pm",
-            "description": "On the 13th of February 2023, the ACM Student Chapter was inaugurated at Pune Vidyarthi Griha’s College of Engineering & Technology and GKPIOM Pune. The Association for Computing Machinery (ACM) is a professional organisation that promotes advancements in the computing industry. \n\n The purpose of the ACM Student Chapter is to provide students with opportunities to learn, network, and grow in the field of computer science. The event began with the welcome address by Sahil Kulkarni (vice-chairperson), followed by Ganesh Pooja. The inaugural event was attended by students, faculty members, college dignitaries, and industry experts. \n\nThe guest of honour was Mr. Tushar Desai, Director of Engineering at MasterCard India. The ACM Student Chapter Team, including Harsh Ekbote (Chairperson), Sahil Kulkarni (vice-chairperson), Vaishnavi Jagdale (Secretary), Tejas Khamkar (Treasurer), Chetan Wanave (Design Head), Siddhesh Kukade (Technical Head), Pavan Chate (Public Relations Head), Komal Pathare (Social Media Head), was introduced by Sahil Kulkarni (ACM Student Chapter vice-chairperson). After the inauguration, a technical talk session on recent trends in technology was conducted.\n\n Mr. Tushar Desai, director of engineering at MasterCard India, delivered the talk on the topic 'Recent Trends in Information Technology.' Mr. Desai spoke about virtual reality and augmented reality, and how these technologies are transforming various industries. He also talked about recession and how to survive in this situation. ACM faculty co-ordinator Prof. S.G.Kamble gave the vote of thanks to all attendees.",
-            "attendance": "60",
+            "id": "7",
+            "title": "SIH Guidance Session",
+            "date": "February 21 & 22, 2024",
+            "time": "12:00 PM - 2:00 PM",
+            "guides": [
+                "Guide: Smart India Hackathon Winner Team"
+            ],
+            "description": "    The Smart India Hackathon (SIH) is a nationwide initiative by the Government of India to harness the innovative prowess of students and address various challenges faced by the country through technology-driven solutions. One such remarkable event was the guidance session conducted by the winning team VEDAVISION, which aimed to provide invaluable insights and mentorship to aspiring participants of the Smart India Hackathon.\n\nVEDAVISION, comprised of talented individuals including Harsh Ekbote, Dheeraj Jadhav, Harish Bapat, Amar Gaikwad, Sameer Jahagirdar, and Aarya Gandhe, emerged triumphant in a previous edition of the hackathon. Their victory not only showcased their technical acumen but also highlighted their ability to devise innovative solutions to real-world problems.\n\nThe guidance session organized by VEDAVISION was a testament to their commitment to nurturing the next generation of innovators. Held over two days, the event brought together students from various educational institutions eager to participate in the Smart India Hackathon. The session primarily targeted third-year and second-year students, providing them with a platform to learn from the experiences of seasoned participants and industry experts.\n\nDuring the event, members of VEDAVISION shared their journey, recounting the challenges they encountered, the strategies they employed, and the lessons they learned along the way. Their firsthand accounts offered invaluable insights into the intricacies of participating in the hackathon, from project ideation to execution and presentation.\n\nMoreover, the session featured interactive workshops and mentorship sessions conducted by industry professionals and alumni of the Smart India Hackathon. These workshops covered a wide range of topics including ideation techniques, project management, technical skills, and presentation tips. Participants had the opportunity to engage with experts, seek guidance on their project ideas, and refine their problem-solving approach.\n\nOne of the highlights of the event was the panel discussion featuring representatives from academia, industry, and the government. The panelists discussed the role of technology in addressing societal challenges, the importance of innovation in driving progress, and the opportunities available to young innovators in India's rapidly evolving tech landscape.\n\nThe guidance session concluded with a networking session where participants had the chance to connect with mentors, fellow students, and industry professionals. This networking opportunity not only facilitated knowledge sharing but also fostered collaborations among participants with diverse backgrounds and skill sets.\n\nOverall, the SIH guidance session by VEDAVISION served as a beacon of inspiration for young innovators, empowering them to harness their creativity and technical expertise to drive positive change in society. By sharing their experiences and expertise, VEDAVISION and other stakeholders reaffirmed their commitment to nurturing India's future innovators and fostering a culture of innovation and entrepreneurship in the country.\n\nThis comprehensive guidance session underscored the transformative power of technology and collaboration in addressing the complex challenges facing India and highlighted the pivotal role of initiatives like the Smart India Hackathon in fostering innovation-led growth and development.",
+            "attendance": "80",
             "imgLinks": [
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906537/acmAssets/image20_odwvxo.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image34_oorjt9.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906538/acmAssets/image38_erkpil.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906538/acmAssets/image32_rafile.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906538/acmAssets/image33_tunh38.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906537/acmAssets/image31_wfaszb.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image41_afwr3x.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906537/acmAssets/image37_jg5tc5.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image45_f1ra9x.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image43_jimcvb.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image35_v7vqwg.jpg"
+                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867039/Acm%20Event%20Assets/snksnci1pzqrzqxqbkpk.jpg",
+                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867041/Acm%20Event%20Assets/omgcubyhn1decwylt6ut.jpg",
+                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867038/Acm%20Event%20Assets/zshetwy3djohclpejkqn.jpg",
+                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867035/Acm%20Event%20Assets/vamokpsv7wszckplxfgr.jpg",
+                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867035/Acm%20Event%20Assets/zjpyadueo2bcxhgrdwgb.jpg",
+                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867034/Acm%20Event%20Assets/rskv82cfaxqrs7daciuz.jpg"
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Talk on GSoC and Off-Campus Internships",
+            "date": "January 13, 2024",
+            "time": "12:00 PM - 2:00 PM",
+            "guides": [
+                "GSoC Guide: Siddhesh Kukade ",
+                "Off-Campus Internship Guide: Rohit Bagal"
+            ],
+            "description": "The session on Google Summer of Code (GSoC) and Off-Campus Internships took place on January 13, 2024, from 12:00 PM to 2:00 PM. The event aimed to provide participants with insights into the GSoC program and the nuances of securing off-campus internships.\n\nVaishnavi Jagdale (Secretary) initiated the session with a warm welcome of guest speakers, emphasizing the importance of the topics at hand. Participants were introduced to the significance of GSoC and off-campus internships in shaping their careers. Siddhesh Kukade, our esteemed GSoC guide, took the virtual stage. His presentation provided a comprehensive overview of the GSoC program, outlining its structure and benefits. Siddhesh shared real-world examples and success stories, illustrating the transformative impact of GSoC on participants' careers. A lively Q&A session allowed participants to delve deeper into specific aspects of the GSoC application process.\n\nRohit Bagal, our Off-Campus Internship guide, continued the session. His presentation navigated participants through effective strategies for securing off-campus internships. Practical tips on resume building, portfolio creation, and interview preparation were shared, catering to the unique challenges of off-campus placements. The interactive session provided a platform for participants to seek personalized advice and address queries related to internship pursuits.\n\nVaishnavi summarized the key takeaways from both sessions, emphasizing the importance of proactive engagement. Expressing heartfelt gratitude to Siddhesh Kukade and Rohit Bagal for their invaluable contributions and expertise. Participants were thanked for their active involvement and encouraged to apply the insights gained in their professional journeys.",
+            "attendance": "40",
+            "imgLinks": [
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909509/acmAssets/image8_ecli8n.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909506/acmAssets/image42_zziazd.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909504/acmAssets/image36_h8eh6a.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909505/acmAssets/image39_m9svri.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909505/acmAssets/image40_ry8osk.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909504/acmAssets/image9_mtlkzv.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909504/acmAssets/image10_tcdv8q.png"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Resume Building Workshop",
+            "date": "25/10/2023",
+            "time": "3.30 pm to 5.00 pm",
+            "description": "On 25th October 2023, the ACM Student Chapter of PVGCOET & GKPIOM organized an offline workshop on resume building for young enthusiastic minds. The resume building session, conducted by Mr. Tushar Pawar, a corporate trainer, and image consultant, was a highly informative and engaging event aimed at providing valuable insights into the art of crafting effective resumes. A resume is a vital tool in a job search since it provides us with a page or two to highlight your best and most relevant abilities and attributes.\n\nThe session commenced with a warm welcome by Sushmita Chaudhari, a prominent member of the ACM Chapter, who extended greetings to all the attendees and set the stage for the informative session. Srushti Mahajan introduced Mr. Tushar Pawar, highlighting his extensive experience in corporate training and image consultancy. His background in the industry and expertise made him the ideal guide for the session. The Head of the IT Department (HOD), Dr. Surendra Mahajan, extended a warm welcome to Mr. Tushar Pawar, presenting him with a bouquet as a token of appreciation for his presence and valuable contribution to the event.\n\nThe workshop delved into the fundamental concept of what a resume is, explaining that it is a concise summary of an individual's qualifications, skills, and experiences, designed to showcase their suitability for a specific job or role. Mr. Pawar emphasized the importance of self-assessment, goal-setting, and research before embarking on resume writing. Understanding one's career goals and the industry is crucial for tailoring the resume accordingly.\n\nThe session provided numerous practical tips and tricks for writing an effective resume, including using action verbs, quantifying achievements, and tailoring the content to match the job description. A comprehensive breakdown of the crucial elements that should be included in a resume was presented, covering sections such as contact information, summary or objective, education, work experience, skills, and achievements. Mr. Pawar shared recommendations on font choices and sizes to ensure the resume's readability and professionalism. Clear and legible fonts were preferred, with the appropriate font size for different sections.",
+            "attendance": "40",
+            "imgLinks": [
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909001/acmAssets/image18_pibhzm.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909004/acmAssets/image5_vnhre4.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909002/acmAssets/image4_plgdya.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909002/acmAssets/image3_imwg4m.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909001/acmAssets/image19_mjllja.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909007/acmAssets/image7_nvhb8n.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909005/acmAssets/image6_djkzmd.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705907644/acmAssets/image2_na3cgj.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906537/acmAssets/image1_g1a8ba.jpg"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Introduction to DevOps Webinar",
+            "date": " 05/08/2023",
+            "time": " 11.00 am to 1.00 pm",
+            "description": "The ACM Student Chapter of PVGCOET & GKPIOM organized an online webinar on the Google Meet platform for DevOps enthusiasts, which included a workshop. The purpose of this webinar was to gather the attention of young enthusiastic minds towards the seamless collaboration between software development and IT operations, fostering efficiency, automation, and continuous delivery to accelerate innovation and enhance business outcomes. The webinar commenced with a warm welcome address by Sahil Kulkarni (Vice-chairperson) and a guest introduction by Tejas Khamkar (Treasurer).\n\nThis online webinar attracted enthusiastic students from different branches and years. The guest of honour was Mr. Kedar Subhash Deo, Vice President of Group Practice Head in Tech Mahindra, bringing with him 26+ years of experience in the field of software development and IT operations.\n\nThe guest speaker began by introducing himself and sharing his journey in software development and operations. He provided a brief introduction to thirteen different buzzwords like Metaverse, Virtuality, Agility, blockchain, security, etc. He then explained aspects of software development (professional amateur) and answered questions such as what DevOps is exactly and why it should be used. Subsequently, he focused on the importance of DevOps in the Software Industry, discussing why DevOps is popular in the current era and its future.\n\nTowards the end of his talk, he gave a real-life example of the actual implementation and workflow of DevOps in Software development and Operation using his MyWebApp web application. He also discussed the growth of a DevOps Engineer in the software operations industry. Following a Q&A session, ACM Student Chapter Vice-chairperson Sahil Kulkarni expressed gratitude in the vote of thanks to the honorable guest, Mr. Kedar Subhash Deo, Vice President of Group Practice Head in Tech Mahindra, as well as to the attendees of the webinar.",
+            "attendance": "50",
+            "imgLinks": [
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908619/acmAssets/image13_gz7dif.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908619/acmAssets/image17_cobfx2.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908618/acmAssets/image16_wjstvb.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908618/acmAssets/image15_qszlb6.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908619/acmAssets/image14_xtjqvq.png"
+            ]
+        },
+        {
+            "id": "3",
+            "title": " “Clash of Codes”:Coding Competition",
+            "date": "8 May 2023",
+            "time": "10.00am to 12.00pm",
+            "description": "PVGCOET’s ACM Student Chapter organized the coding competition 'ClashOfCodes' on 8th May 2023, from 10:00 AM to 12:00 PM, at the department of information technology labs. The coding competition aimed to promote and recognize coding talent among students, providing an opportunity for participants to showcase their problem-solving abilities and programming skills. The competition was specifically open to second-year IT students, and participants registered for the event through a Google Form. The response was encouraging, with a total of 50 students participating.\n\nThere were 4 questions of easy, medium, and hard levels in the competition. The contest was organized on the HackerRank platform, and participants were required to solve the questions within a 2-hour timeframe. Submissions were evaluated based on the maximum score and the minimum time required to solve the problems. The judging process was fair and transparent, ensuring equal opportunities for all participants.\n\nThe top-performing participants were recognized and awarded with cash prizes and certificates. The 1st rank was awarded a cash prize of Rs.1000 and a certificate, the 2nd rank received a cash prize of Rs.500 and a certificate, and the 3rd rank was awarded Rs.250 and a certificate. Prof.Dr.S.A.Mahajan (HOD at the Department of Information Technology), Prof.S.S.Dixit, and Prof.S.G.Kamble presented the prizes to the winners.",
+            "attendance": "50",
+            "imgLinks": [
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908185/acmAssets/image25_kx4fex.png",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908183/acmAssets/image30_xjfzr8.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908182/acmAssets/image29_tcahgg.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908181/acmAssets/image28_um0kll.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908183/acmAssets/image11_c7qjad.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908183/acmAssets/image12_nvuu7u.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908181/acmAssets/image27_lmgwnr.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908181/acmAssets/image26_zzzup4.jpg"
             ]
         },
         {
@@ -45,95 +116,24 @@
             ]
         },
         {
-            "id": "3",
-            "title": " “Clash of Codes”:Coding Competition",
-            "date": "8 May 2023",
-            "time": "10.00am to 12.00pm",
-            "description": "PVGCOET’s ACM Student Chapter organized the coding competition 'ClashOfCodes' on 8th May 2023, from 10:00 AM to 12:00 PM, at the department of information technology labs. The coding competition aimed to promote and recognize coding talent among students, providing an opportunity for participants to showcase their problem-solving abilities and programming skills. The competition was specifically open to second-year IT students, and participants registered for the event through a Google Form. The response was encouraging, with a total of 50 students participating.\n\nThere were 4 questions of easy, medium, and hard levels in the competition. The contest was organized on the HackerRank platform, and participants were required to solve the questions within a 2-hour timeframe. Submissions were evaluated based on the maximum score and the minimum time required to solve the problems. The judging process was fair and transparent, ensuring equal opportunities for all participants.\n\nThe top-performing participants were recognized and awarded with cash prizes and certificates. The 1st rank was awarded a cash prize of Rs.1000 and a certificate, the 2nd rank received a cash prize of Rs.500 and a certificate, and the 3rd rank was awarded Rs.250 and a certificate. Prof.Dr.S.A.Mahajan (HOD at the Department of Information Technology), Prof.S.S.Dixit, and Prof.S.G.Kamble presented the prizes to the winners.",
-            "attendance": "50",
+            "id": "1",
+            "title": "ACM Inauguration and TechTalk Session on 'Recent Trends in IT' ",
+            "date": "13/02/2023",
+            "time": "11.00 am to 1.00 pm",
+            "description": "On the 13th of February 2023, the ACM Student Chapter was inaugurated at Pune Vidyarthi Griha’s College of Engineering & Technology and GKPIOM Pune. The Association for Computing Machinery (ACM) is a professional organisation that promotes advancements in the computing industry. \n\n The purpose of the ACM Student Chapter is to provide students with opportunities to learn, network, and grow in the field of computer science. The event began with the welcome address by Sahil Kulkarni (vice-chairperson), followed by Ganesh Pooja. The inaugural event was attended by students, faculty members, college dignitaries, and industry experts. \n\nThe guest of honour was Mr. Tushar Desai, Director of Engineering at MasterCard India. The ACM Student Chapter Team, including Harsh Ekbote (Chairperson), Sahil Kulkarni (vice-chairperson), Vaishnavi Jagdale (Secretary), Tejas Khamkar (Treasurer), Chetan Wanave (Design Head), Siddhesh Kukade (Technical Head), Pavan Chate (Public Relations Head), Komal Pathare (Social Media Head), was introduced by Sahil Kulkarni (ACM Student Chapter vice-chairperson). After the inauguration, a technical talk session on recent trends in technology was conducted.\n\n Mr. Tushar Desai, director of engineering at MasterCard India, delivered the talk on the topic 'Recent Trends in Information Technology.' Mr. Desai spoke about virtual reality and augmented reality, and how these technologies are transforming various industries. He also talked about recession and how to survive in this situation. ACM faculty co-ordinator Prof. S.G.Kamble gave the vote of thanks to all attendees.",
+            "attendance": "60",
             "imgLinks": [
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908185/acmAssets/image25_kx4fex.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908183/acmAssets/image30_xjfzr8.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908182/acmAssets/image29_tcahgg.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908181/acmAssets/image28_um0kll.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908183/acmAssets/image11_c7qjad.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908183/acmAssets/image12_nvuu7u.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908181/acmAssets/image27_lmgwnr.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908181/acmAssets/image26_zzzup4.jpg"
-            ]
-        },
-        {
-            "id": "4",
-            "title": "Introduction to DevOps Webinar",
-            "date": " 05/08/2023",
-            "time": " 11.00 am to 1.00 pm",
-            "description": "The ACM Student Chapter of PVGCOET & GKPIOM organized an online webinar on the Google Meet platform for DevOps enthusiasts, which included a workshop. The purpose of this webinar was to gather the attention of young enthusiastic minds towards the seamless collaboration between software development and IT operations, fostering efficiency, automation, and continuous delivery to accelerate innovation and enhance business outcomes. The webinar commenced with a warm welcome address by Sahil Kulkarni (Vice-chairperson) and a guest introduction by Tejas Khamkar (Treasurer).\n\nThis online webinar attracted enthusiastic students from different branches and years. The guest of honour was Mr. Kedar Subhash Deo, Vice President of Group Practice Head in Tech Mahindra, bringing with him 26+ years of experience in the field of software development and IT operations.\n\nThe guest speaker began by introducing himself and sharing his journey in software development and operations. He provided a brief introduction to thirteen different buzzwords like Metaverse, Virtuality, Agility, blockchain, security, etc. He then explained aspects of software development (professional amateur) and answered questions such as what DevOps is exactly and why it should be used. Subsequently, he focused on the importance of DevOps in the Software Industry, discussing why DevOps is popular in the current era and its future.\n\nTowards the end of his talk, he gave a real-life example of the actual implementation and workflow of DevOps in Software development and Operation using his MyWebApp web application. He also discussed the growth of a DevOps Engineer in the software operations industry. Following a Q&A session, ACM Student Chapter Vice-chairperson Sahil Kulkarni expressed gratitude in the vote of thanks to the honorable guest, Mr. Kedar Subhash Deo, Vice President of Group Practice Head in Tech Mahindra, as well as to the attendees of the webinar.",
-            "attendance": "50",
-            "imgLinks": [
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908619/acmAssets/image13_gz7dif.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908619/acmAssets/image17_cobfx2.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908618/acmAssets/image16_wjstvb.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908618/acmAssets/image15_qszlb6.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705908619/acmAssets/image14_xtjqvq.png"
-            ]
-        },
-        {
-            "id": "5",
-            "title": "Resume Building Workshop",
-            "date": "25/10/2023",
-            "time": "3.30 pm to 5.00 pm",
-            "description": "On 25th October 2023, the ACM Student Chapter of PVGCOET & GKPIOM organized an offline workshop on resume building for young enthusiastic minds. The resume building session, conducted by Mr. Tushar Pawar, a corporate trainer, and image consultant, was a highly informative and engaging event aimed at providing valuable insights into the art of crafting effective resumes. A resume is a vital tool in a job search since it provides us with a page or two to highlight your best and most relevant abilities and attributes.\n\nThe session commenced with a warm welcome by Sushmita Chaudhari, a prominent member of the ACM Chapter, who extended greetings to all the attendees and set the stage for the informative session. Srushti Mahajan introduced Mr. Tushar Pawar, highlighting his extensive experience in corporate training and image consultancy. His background in the industry and expertise made him the ideal guide for the session. The Head of the IT Department (HOD), Dr. Surendra Mahajan, extended a warm welcome to Mr. Tushar Pawar, presenting him with a bouquet as a token of appreciation for his presence and valuable contribution to the event.\n\nThe workshop delved into the fundamental concept of what a resume is, explaining that it is a concise summary of an individual's qualifications, skills, and experiences, designed to showcase their suitability for a specific job or role. Mr. Pawar emphasized the importance of self-assessment, goal-setting, and research before embarking on resume writing. Understanding one's career goals and the industry is crucial for tailoring the resume accordingly.\n\nThe session provided numerous practical tips and tricks for writing an effective resume, including using action verbs, quantifying achievements, and tailoring the content to match the job description. A comprehensive breakdown of the crucial elements that should be included in a resume was presented, covering sections such as contact information, summary or objective, education, work experience, skills, and achievements. Mr. Pawar shared recommendations on font choices and sizes to ensure the resume's readability and professionalism. Clear and legible fonts were preferred, with the appropriate font size for different sections.",
-            "attendance": "40",
-            "imgLinks": [
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909001/acmAssets/image18_pibhzm.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909004/acmAssets/image5_vnhre4.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909002/acmAssets/image4_plgdya.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909002/acmAssets/image3_imwg4m.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909001/acmAssets/image19_mjllja.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909007/acmAssets/image7_nvhb8n.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909005/acmAssets/image6_djkzmd.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705907644/acmAssets/image2_na3cgj.jpg",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906537/acmAssets/image1_g1a8ba.jpg"
-            ]
-        },
-        {
-            "id": "6",
-            "title": "Talk on GSoC and Off-Campus Internships",
-            "date": "January 13, 2024",
-            "time": "12:00 PM - 2:00 PM",
-            "guides": [
-                "GSoC Guide: Siddhesh Kukade ",
-                "Off-Campus Internship Guide: Rohit Bagal"
-            ],
-            "description": "The session on Google Summer of Code (GSoC) and Off-Campus Internships took place on January 13, 2024, from 12:00 PM to 2:00 PM. The event aimed to provide participants with insights into the GSoC program and the nuances of securing off-campus internships.\n\nVaishnavi Jagdale (Secretary) initiated the session with a warm welcome of guest speakers, emphasizing the importance of the topics at hand. Participants were introduced to the significance of GSoC and off-campus internships in shaping their careers. Siddhesh Kukade, our esteemed GSoC guide, took the virtual stage. His presentation provided a comprehensive overview of the GSoC program, outlining its structure and benefits. Siddhesh shared real-world examples and success stories, illustrating the transformative impact of GSoC on participants' careers. A lively Q&A session allowed participants to delve deeper into specific aspects of the GSoC application process.\n\nRohit Bagal, our Off-Campus Internship guide, continued the session. His presentation navigated participants through effective strategies for securing off-campus internships. Practical tips on resume building, portfolio creation, and interview preparation were shared, catering to the unique challenges of off-campus placements. The interactive session provided a platform for participants to seek personalized advice and address queries related to internship pursuits.\n\nVaishnavi summarized the key takeaways from both sessions, emphasizing the importance of proactive engagement. Expressing heartfelt gratitude to Siddhesh Kukade and Rohit Bagal for their invaluable contributions and expertise. Participants were thanked for their active involvement and encouraged to apply the insights gained in their professional journeys.",
-            "attendance": "40",
-            "imgLinks": [
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909509/acmAssets/image8_ecli8n.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909506/acmAssets/image42_zziazd.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909504/acmAssets/image36_h8eh6a.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909505/acmAssets/image39_m9svri.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909505/acmAssets/image40_ry8osk.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909504/acmAssets/image9_mtlkzv.png",
-                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705909504/acmAssets/image10_tcdv8q.png"
-            ]
-        },
-        {
-            "id": "7",
-            "title": "SIH Guidance Session",
-            "date": "February 21 & 22, 2024",
-            "time": "12:00 PM - 2:00 PM",
-            "guides": [
-                "Guide: Smart India Hackathon Winner Team"
-            ],
-            "description": "    The Smart India Hackathon (SIH) is a nationwide initiative by the Government of India to harness the innovative prowess of students and address various challenges faced by the country through technology-driven solutions. One such remarkable event was the guidance session conducted by the winning team VEDAVISION, which aimed to provide invaluable insights and mentorship to aspiring participants of the Smart India Hackathon.\n\nVEDAVISION, comprised of talented individuals including Harsh Ekbote, Dheeraj Jadhav, Harish Bapat, Amar Gaikwad, Sameer Jahagirdar, and Aarya Gandhe, emerged triumphant in a previous edition of the hackathon. Their victory not only showcased their technical acumen but also highlighted their ability to devise innovative solutions to real-world problems.\n\nThe guidance session organized by VEDAVISION was a testament to their commitment to nurturing the next generation of innovators. Held over two days, the event brought together students from various educational institutions eager to participate in the Smart India Hackathon. The session primarily targeted third-year and second-year students, providing them with a platform to learn from the experiences of seasoned participants and industry experts.\n\nDuring the event, members of VEDAVISION shared their journey, recounting the challenges they encountered, the strategies they employed, and the lessons they learned along the way. Their firsthand accounts offered invaluable insights into the intricacies of participating in the hackathon, from project ideation to execution and presentation.\n\nMoreover, the session featured interactive workshops and mentorship sessions conducted by industry professionals and alumni of the Smart India Hackathon. These workshops covered a wide range of topics including ideation techniques, project management, technical skills, and presentation tips. Participants had the opportunity to engage with experts, seek guidance on their project ideas, and refine their problem-solving approach.\n\nOne of the highlights of the event was the panel discussion featuring representatives from academia, industry, and the government. The panelists discussed the role of technology in addressing societal challenges, the importance of innovation in driving progress, and the opportunities available to young innovators in India's rapidly evolving tech landscape.\n\nThe guidance session concluded with a networking session where participants had the chance to connect with mentors, fellow students, and industry professionals. This networking opportunity not only facilitated knowledge sharing but also fostered collaborations among participants with diverse backgrounds and skill sets.\n\nOverall, the SIH guidance session by VEDAVISION served as a beacon of inspiration for young innovators, empowering them to harness their creativity and technical expertise to drive positive change in society. By sharing their experiences and expertise, VEDAVISION and other stakeholders reaffirmed their commitment to nurturing India's future innovators and fostering a culture of innovation and entrepreneurship in the country.\n\nThis comprehensive guidance session underscored the transformative power of technology and collaboration in addressing the complex challenges facing India and highlighted the pivotal role of initiatives like the Smart India Hackathon in fostering innovation-led growth and development.",
-            "attendance": "80",
-            "imgLinks": [
-                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867039/Acm%20Event%20Assets/snksnci1pzqrzqxqbkpk.jpg",
-                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867041/Acm%20Event%20Assets/omgcubyhn1decwylt6ut.jpg",
-                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867038/Acm%20Event%20Assets/zshetwy3djohclpejkqn.jpg",
-                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867035/Acm%20Event%20Assets/vamokpsv7wszckplxfgr.jpg",
-                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867035/Acm%20Event%20Assets/zjpyadueo2bcxhgrdwgb.jpg",
-                "https://res.cloudinary.com/degn6onbj/image/upload/v1711867034/Acm%20Event%20Assets/rskv82cfaxqrs7daciuz.jpg"
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906537/acmAssets/image20_odwvxo.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image34_oorjt9.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906538/acmAssets/image38_erkpil.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906538/acmAssets/image32_rafile.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906538/acmAssets/image33_tunh38.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906537/acmAssets/image31_wfaszb.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image41_afwr3x.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906537/acmAssets/image37_jg5tc5.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image45_f1ra9x.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image43_jimcvb.jpg",
+                "https://res.cloudinary.com/dn07sxmaf/image/upload/v1705906536/acmAssets/image35_v7vqwg.jpg"
             ]
         }
     ]

@@ -20,8 +20,8 @@ const Teams = () => {
 
                 <div className="yearSelecter-cont">
                     <select className='yearSelecter' value={year} onChange={handleYearChange} name="" id="">
-                        <option value="teamYear24">Current Year 2024-23</option>
-                        <option value="teamYear23">Alumni Team 2023-24</option>
+                        <option value="teamYear24">Current Year 2023 - 2024 </option>
+                        <option value="teamYear23">Alumni Team 2022 - 2023 </option>
                     </select>
                 </div>
 
