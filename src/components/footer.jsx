@@ -82,7 +82,7 @@ const Footer = () => {
             </footer>
             <div class="tech-team-cont">
                 <div class="content">
-                    Designed and Developed with ❤️ <Link className="tech-team-link" to='/techTeam'>  by Tech Team 2023-24</Link>
+                    Designed and Developed with ❤️ <Link className="tech-team-link" to='/techTeam'>  by Tech Team 2023 - 2024</Link>
                 </div>
                 <div class="copyright">
                     Ⓒ PVGCOET ACM Student Chapter Pune , 2024 
